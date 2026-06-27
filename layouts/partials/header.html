@@ -4,9 +4,23 @@
       <span class="brand-name">{{ site.Title }}</span>
       <span class="brand-sub">{{ site.Params.slogan }}</span>
     </a>
+    <nav class="main-nav desktop-nav" aria-label="Main navigation">
+      {{ range site.Menus.main }}
+        <a href="{{ .URL }}" class="nav-link">{{ .Name }}</a>
+      {{ end }}
+      <details class="nav-drop">
+        <summary class="nav-link">Categories</summary>
+        <div class="drop-menu">
+          {{ range sort site.Data.categories "priority" }}
+            <a href="/categories/{{ .slug }}/">{{ .name }}</a>
+          {{ end }}
+        </div>
+      </details>
+    </nav>
+    <a class="header-cta" href="https://wa.me/{{ replace (replace site.Params.whatsapp "+" "") "-" "" }}">WhatsApp</a>
     <details class="mobile-menu">
       <summary>Menu</summary>
-      <nav class="main-nav" aria-label="Main navigation">
+      <nav class="mobile-nav" aria-label="Mobile navigation">
         {{ range site.Menus.main }}
           <a href="{{ .URL }}" class="nav-link">{{ .Name }}</a>
         {{ end }}
@@ -20,6 +34,5 @@
         </details>
       </nav>
     </details>
-    <a class="header-cta" href="https://wa.me/{{ replace (replace site.Params.whatsapp "+" "") "-" "" }}">WhatsApp</a>
   </div>
 </header>
