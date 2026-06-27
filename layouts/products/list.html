@@ -2,7 +2,16 @@
 <section class="container page">
   <h1>{{ .Title }}</h1>
   <p class="lead">{{ .Description }}</p>
-  <div class="category-filter">
+  <div class="category-toolbar">
+    <label for="category-select">Browse by category</label>
+    <select id="category-select" onchange="if(this.value){window.location.href=this.value}">
+      <option value="">Select a category</option>
+      {{ range sort site.Data.categories "priority" }}
+        <option value="/categories/{{ .slug }}/">{{ .name }}</option>
+      {{ end }}
+    </select>
+  </div>
+  <div class="category-filter" aria-label="Product categories">
     {{ range sort site.Data.categories "priority" }}
       <a href="/categories/{{ .slug }}/">{{ .name }}</a>
     {{ end }}
