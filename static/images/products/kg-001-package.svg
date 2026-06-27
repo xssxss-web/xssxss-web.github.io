@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#fff7ed"/>
+  <rect x="250" y="150" width="400" height="560" rx="28" fill="#ffffff" stroke="#e5e7eb" stroke-width="4"/>
+  <rect x="290" y="210" width="320" height="220" rx="20" fill="#eef4ff"/>
+  <text x="450" y="335" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#2457c5">KG-001</text>
+  <text x="450" y="500" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#172033">Retail Box</text>
+  <text x="450" y="555" text-anchor="middle" font-family="Arial" font-size="22" fill="#667085">Custom packaging available</text>
+</svg>
