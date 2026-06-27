@@ -1,0 +1,20 @@
+- slug: "kitchen-gadgets"
+  name: "Kitchen Gadgets"
+  description: "Food prep tools, cooking aids, kitchen utensils and practical small kitchen products."
+  priority: 1
+- slug: "storage-organization"
+  name: "Storage & Organization"
+  description: "Closet organizers, drawer dividers, vacuum storage bags and home space-saving products."
+  priority: 2
+- slug: "cleaning-tools"
+  name: "Cleaning Tools"
+  description: "Microfiber mops, brushes, spray bottles, household cleaning accessories and refillable tools."
+  priority: 3
+- slug: "bathroom-accessories"
+  name: "Bathroom Accessories"
+  description: "Shower caddies, soap dispensers, toothbrush holders and bathroom storage products."
+  priority: 4
+- slug: "home-lifestyle-gifts"
+  name: "Home Lifestyle Gifts"
+  description: "Small home gifts, seasonal lifestyle items and decorative everyday products."
+  priority: 5

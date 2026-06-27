@@ -1,0 +1,61 @@
+baseURL: "https://xssxss-web.github.io/"
+languageCode: "en-us"
+title: "MikeOK Home & Kitchen Wholesale"
+theme: ""
+enableRobotsTXT: true
+summaryLength: 28
+
+taxonomies:
+  category: categories
+  tag: tags
+  buyer: buyers
+  usecase: usecases
+
+permalinks:
+  products: "/products/:slug/"
+  guides: "/guides/:slug/"
+
+params:
+  siteType: "B2B Online Wholesale Showroom"
+  businessPositioning: "Home & Kitchen Wholesale Showroom from Yiwu China"
+  defaultImage: "/images/default-product.jpg"
+  whatsapp: "+86-138-0000-0000"
+  email: "contact@mikeok.com"
+  wechat: "mikeok_yiwu"
+  address: "Yiwu International Trade City, Zhejiang, China"
+  slogan: "Direct from Yiwu Market — Factory Prices, Flexible MOQ"
+  defaultMOQ: "500 pcs"
+  defaultLeadTime: "15-30 days"
+  defaultPayment: "30% deposit, 70% before shipment"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "Products"
+      url: "/products/"
+      weight: 20
+    - name: "Wholesale Guides"
+      url: "/guides/"
+      weight: 30
+    - name: "About"
+      url: "/about/"
+      weight: 40
+    - name: "Contact"
+      url: "/contact/"
+      weight: 50
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: false
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.7
+  filename: "sitemap.xml"

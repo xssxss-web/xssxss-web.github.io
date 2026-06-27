@@ -1,0 +1,14 @@
+quick_links:
+  - name: "All Products"
+    url: "/products/"
+  - name: "Wholesale Guides"
+    url: "/guides/"
+  - name: "About Us"
+    url: "/about/"
+  - name: "Contact"
+    url: "/contact/"
+trade_terms:
+  - "MOQ-friendly wholesale"
+  - "OEM/ODM support"
+  - "Sample available"
+  - "Mixed order support"

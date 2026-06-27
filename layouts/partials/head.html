@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ $title := .Params.meta_title | default .Title }}
+  {{ $desc := .Description | default .Params.summary | default site.Params.businessPositioning }}
+  <title>{{ if $title }}{{ $title }} | {{ end }}{{ site.Title }}</title>
+  <meta name="description" content="{{ $desc }}">
+  {{ with .Params.primary_keyword }}<meta name="keywords" content="{{ . }}{{ with $.Params.secondary_keywords }}, {{ delimit . ", " }}{{ end }}">{{ end }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="/css/main.css">
+  <meta property="og:title" content="{{ $title | default site.Title }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if eq .Section "products" }}product{{ else }}website{{ end }}">
+  {{ with .Params.main_image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+  {{ with .Params.sku }}<meta property="product:retailer_item_id" content="{{ . }}">{{ end }}
+  {{ if eq .Section "products" }}{{ partial "schema-product.html" . }}{{ end }}
+</head>

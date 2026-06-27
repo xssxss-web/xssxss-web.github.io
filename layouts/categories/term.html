@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="container page">
+  <h1>{{ .Title }}</h1>
+  <div class="product-grid">
+    {{ range .Pages }}
+      {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

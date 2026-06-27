@@ -1,0 +1,5 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="/">Home</a>
+  {{ with .Section }}<span>/</span><a href="/{{ . }}/">{{ humanize . }}</a>{{ end }}
+  <span>/</span><span>{{ .Title }}</span>
+</nav>

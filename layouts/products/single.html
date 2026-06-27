@@ -1,0 +1,179 @@
+{{ define "main" }}
+<article class="container product-page">
+  {{ partial "breadcrumbs.html" . }}
+
+  <div class="product-layout">
+    <section class="product-media">
+      {{ with .Params.main_image }}
+        <img class="main-image" src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}">
+      {{ else }}
+        <div class="image-placeholder large">Product Image</div>
+      {{ end }}
+      {{ with .Params.gallery_images }}
+        <div class="gallery-grid">
+          {{ range . }}
+            <img src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy">
+          {{ end }}
+        </div>
+      {{ end }}
+    </section>
+
+    <section class="product-info">
+      <p class="sku">{{ .Params.sku }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="lead">{{ .Params.summary | default .Description }}</p>
+
+      <div class="quick-badges">
+        {{ with .Params.moq_pcs }}<span>MOQ {{ . }} pcs</span>{{ end }}
+        {{ with .Params.lead_time_days }}<span>Lead time {{ . }} days</span>{{ end }}
+        {{ if .Params.sample_available }}<span>Sample available</span>{{ end }}
+        {{ if .Params.mixed_order_supported }}<span>Mixed order supported</span>{{ end }}
+      </div>
+
+      <div class="spec-table">
+        {{ with .Params.product_name_cn }}<div><span>Chinese Name</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.material }}<div><span>Material</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.color_options }}<div><span>Colors</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.size_cm }}<div><span>Size</span><strong>{{ . }} cm</strong></div>{{ end }}
+        {{ with .Params.weight_g }}<div><span>Weight</span><strong>{{ . }} g</strong></div>{{ end }}
+        {{ with .Params.moq_pcs }}<div><span>MOQ</span><strong>{{ . }} pcs</strong></div>{{ end }}
+        {{ if or .Params.price_min_usd .Params.price_max_usd }}
+          <div><span>Reference Price</span><strong>{{ with .Params.price_min_usd }}${{ . }}{{ end }}{{ if and .Params.price_min_usd .Params.price_max_usd }} - {{ end }}{{ with .Params.price_max_usd }}${{ . }}{{ end }}</strong></div>
+        {{ end }}
+        {{ with .Params.lead_time_days }}<div><span>Lead Time</span><strong>{{ . }} days</strong></div>{{ end }}
+        {{ with .Params.sample_fee_usd }}<div><span>Sample Fee</span><strong>${{ . }}</strong></div>{{ end }}
+        {{ with .Params.customization_options }}<div><span>Customization</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.certifications }}<div><span>Certifications</span><strong>{{ . }}</strong></div>{{ end }}
+      </div>
+
+      <div class="cta-row">
+        <a class="btn primary" href="https://wa.me/{{ replace (replace site.Params.whatsapp "+" "") "-" "" }}?text=I%20am%20interested%20in%20{{ .Params.sku }}%20{{ .Title }}">WhatsApp Inquiry</a>
+        <a class="btn secondary" href="mailto:{{ site.Params.email }}?subject=Inquiry {{ .Params.sku }} {{ .Title }}">Email Inquiry</a>
+      </div>
+    </section>
+  </div>
+
+  {{ with .Params.selling_points }}
+    <section class="section-block">
+      <h2>Key Selling Points</h2>
+      <div class="feature-grid">
+        {{ range . }}
+          <div class="feature-card">{{ . }}</div>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  <section class="section-block">
+    <h2>Product Description</h2>
+    <div class="content">{{ .Content }}</div>
+  </section>
+
+  <section class="section-block">
+    <h2>Wholesale Specifications</h2>
+    <div class="detail-grid">
+      <div class="detail-card">
+        <h3>Product Details</h3>
+        <div class="spec-table compact">
+          {{ with .Params.material }}<div><span>Material</span><strong>{{ . }}</strong></div>{{ end }}
+          {{ with .Params.color_options }}<div><span>Color Options</span><strong>{{ . }}</strong></div>{{ end }}
+          {{ with .Params.size_cm }}<div><span>Size</span><strong>{{ . }} cm</strong></div>{{ end }}
+          {{ with .Params.weight_g }}<div><span>Weight</span><strong>{{ . }} g</strong></div>{{ end }}
+          {{ with .Params.subcategory }}<div><span>Subcategory</span><strong>{{ . }}</strong></div>{{ end }}
+        </div>
+      </div>
+
+      <div class="detail-card">
+        <h3>Packing & Carton</h3>
+        <div class="spec-table compact">
+          {{ with .Params.packing }}<div><span>Packing</span><strong>{{ . }}</strong></div>{{ end }}
+          {{ with .Params.carton_qty_pcs }}<div><span>Carton Qty</span><strong>{{ . }} pcs</strong></div>{{ end }}
+          {{ with .Params.carton_size_cm }}<div><span>Carton Size</span><strong>{{ . }} cm</strong></div>{{ end }}
+          {{ with .Params.carton_gw_kg }}<div><span>Gross Weight</span><strong>{{ . }} kg</strong></div>{{ end }}
+          {{ with .Params.carton_nw_kg }}<div><span>Net Weight</span><strong>{{ . }} kg</strong></div>{{ end }}
+        </div>
+      </div>
+
+      <div class="detail-card">
+        <h3>Trade Terms</h3>
+        <div class="spec-table compact">
+          {{ with .Params.moq_pcs }}<div><span>MOQ</span><strong>{{ . }} pcs</strong></div>{{ end }}
+          {{ with .Params.lead_time_days }}<div><span>Lead Time</span><strong>{{ . }} days</strong></div>{{ end }}
+          {{ if isset .Params "sample_available" }}<div><span>Sample</span><strong>{{ if .Params.sample_available }}Available{{ else }}Not available{{ end }}</strong></div>{{ end }}
+          {{ with .Params.sample_fee_usd }}<div><span>Sample Fee</span><strong>${{ . }}</strong></div>{{ end }}
+          {{ if isset .Params "mixed_order_supported" }}<div><span>Mixed Order</span><strong>{{ if .Params.mixed_order_supported }}Supported{{ else }}Not supported{{ end }}</strong></div>{{ end }}
+        </div>
+      </div>
+
+      <div class="detail-card">
+        <h3>Customization</h3>
+        <div class="spec-table compact">
+          {{ with .Params.customization_options }}<div><span>Options</span><strong>{{ . }}</strong></div>{{ end }}
+          {{ with .Params.certifications }}<div><span>Certifications</span><strong>{{ . }}</strong></div>{{ end }}
+          {{ with .Params.video_url }}<div><span>Video</span><strong><a href="{{ . }}" target="_blank" rel="noopener">View video</a></strong></div>{{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{ if or .Params.buyers .Params.usecases .Params.primary_keyword .Params.secondary_keywords }}
+    <section class="section-block">
+      <h2>Buyer & Application Notes</h2>
+      <div class="tag-groups">
+        {{ with .Params.buyers }}
+          <div>
+            <h3>Suitable Buyers</h3>
+            {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+          </div>
+        {{ end }}
+        {{ with .Params.usecases }}
+          <div>
+            <h3>Use Cases</h3>
+            {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+          </div>
+        {{ end }}
+        {{ with .Params.secondary_keywords }}
+          <div>
+            <h3>Related Search Terms</h3>
+            {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ with .Params.faq }}
+    <section class="section-block">
+      <h2>Wholesale FAQ</h2>
+      {{ range . }}
+        <details class="faq"><summary>{{ .question }}</summary><p>{{ .answer }}</p></details>
+      {{ end }}
+    </section>
+  {{ end }}
+
+  <section class="section-block inquiry-panel">
+    <div>
+      <h2>Send an Inquiry for {{ .Params.sku }}</h2>
+      <p>For faster quotation, please send SKU, target quantity, destination country and customization requirements.</p>
+    </div>
+    <div class="cta-row">
+      <a class="btn primary" href="https://wa.me/{{ replace (replace site.Params.whatsapp "+" "") "-" "" }}?text=I%20am%20interested%20in%20{{ .Params.sku }}%20{{ .Title }}">Ask on WhatsApp</a>
+      <a class="btn secondary" href="mailto:{{ site.Params.email }}?subject=Inquiry {{ .Params.sku }} {{ .Title }}">Send Email</a>
+    </div>
+  </section>
+
+  {{ with .Params.related_skus }}
+    <section class="section-block">
+      <h2>Related Products</h2>
+      <div class="product-grid">
+        {{ range $sku := . }}
+          {{ $related := where site.RegularPages "Params.sku" $sku }}
+          {{ range first 1 $related }}
+            {{ partial "product-card.html" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+</article>
+{{ end }}

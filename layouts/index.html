@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <p class="eyebrow">{{ site.Params.siteType }}</p>
+    <h1>Home & Kitchen Wholesale Showroom from Yiwu China</h1>
+    <p class="hero-text">Curated kitchen gadgets, storage products, cleaning tools, bathroom accessories and home lifestyle gifts for wholesale buyers.</p>
+    <div class="hero-actions">
+      <a class="btn primary" href="/products/">Browse Products</a>
+      <a class="btn secondary" href="/contact/">Send Inquiry</a>
+    </div>
+  </div>
+</section>
+<section class="container section">
+  <h2>Main Categories</h2>
+  <div class="category-grid">
+    {{ range sort site.Data.categories "priority" }}
+      <a class="category-card" href="/categories/{{ .slug }}/">
+        <h3>{{ .name }}</h3>
+        <p>{{ .description }}</p>
+      </a>
+    {{ end }}
+  </div>
+</section>
+<section class="container section">
+  <h2>Latest Products</h2>
+  <div class="product-grid">
+    {{ range first 8 (where site.RegularPages "Section" "products") }}
+      {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

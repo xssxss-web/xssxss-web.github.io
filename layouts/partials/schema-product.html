@@ -1,0 +1,20 @@
+{{ $desc := .Description | default .Params.summary | default .Title }}
+{{ $images := slice }}
+{{ with .Params.main_image }}{{ $images = $images | append (. | absURL) }}{{ end }}
+{{ with .Params.gallery_images }}
+  {{ range . }}{{ $images = $images | append (. | absURL) }}{{ end }}
+{{ end }}
+{{ $props := slice }}
+{{ with .Params.material }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Material" "value" .) }}{{ end }}
+{{ with .Params.color_options }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Color Options" "value" .) }}{{ end }}
+{{ with .Params.size_cm }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Size" "value" (printf "%v cm" .)) }}{{ end }}
+{{ with .Params.weight_g }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Weight" "value" (printf "%v g" .)) }}{{ end }}
+{{ with .Params.moq_pcs }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "MOQ" "value" (printf "%v pcs" .)) }}{{ end }}
+{{ with .Params.packing }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Packing" "value" .) }}{{ end }}
+{{ with .Params.lead_time_days }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Lead Time" "value" (printf "%v days" .)) }}{{ end }}
+{{ with .Params.customization_options }}{{ $props = $props | append (dict "@type" "PropertyValue" "name" "Customization" "value" .) }}{{ end }}
+{{ $offer := dict "@type" "Offer" "availability" "https://schema.org/InStock" "priceCurrency" "USD" "price" (.Params.price_min_usd | default 0) "url" .Permalink }}
+{{ $schema := dict "@context" "https://schema.org" "@type" "Product" "name" .Title "sku" (.Params.sku | default "") "description" $desc "brand" (dict "@type" "Brand" "name" site.Title) "offers" $offer "additionalProperty" $props }}
+{{ if gt (len $images) 0 }}{{ $schema = merge $schema (dict "image" $images) }}{{ end }}
+{{ with .Params.certifications }}{{ $schema = merge $schema (dict "award" .) }}{{ end }}
+<script type="application/ld+json">{{ $schema | jsonify }}</script>
