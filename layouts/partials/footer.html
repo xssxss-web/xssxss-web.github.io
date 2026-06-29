@@ -21,7 +21,7 @@
       <h3>Contact</h3>
       <p>WhatsApp: {{ site.Data.company.whatsapp }}</p>
       <p>Email: <a href="mailto:{{ site.Data.company.email }}">{{ site.Data.company.email }}</a></p>
-      <p>WeChat: {{ site.Data.company.wechat }}</p>
+      {{ with site.Data.company.wechat }}<p>WeChat: {{ . }}</p>{{ end }}
     </section>
   </div>
   <div class="container footer-bottom">
