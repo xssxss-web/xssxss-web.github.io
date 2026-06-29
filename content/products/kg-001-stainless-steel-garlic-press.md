@@ -41,7 +41,7 @@ lead_time_days: "15-20"
 mixed_order_supported: true
 customization_options: "Logo laser engraving, custom handle color, retail packaging"
 certifications: "FDA, LFGB available upon request"
-main_image: "https://img.mikeok.com/file/1782538754246_solar1.jpg"
+main_image: "/images/products/kg-001-main.svg"
 gallery_images:
   - "/images/products/kg-001-side.svg"
   - "/images/products/kg-001-package.svg"
