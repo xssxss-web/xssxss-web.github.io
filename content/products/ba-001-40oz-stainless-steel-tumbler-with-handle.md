@@ -36,7 +36,7 @@ carton_qty_pcs: 32
 carton_size_cm: "58 x 38 x 42"
 carton_gw_kg: 18.5
 carton_nw_kg: 14.5
-moq_pcs: 500
+moq_pcs: 50
 price_min_usd: 3.8
 price_max_usd: 6.5
 sample_available: true
@@ -45,18 +45,16 @@ lead_time_days: "20-30"
 mixed_order_supported: true
 customization_options: "Custom logo printing (UV print / laser), Pantone color matching, custom packaging, retail gift box design, custom pattern printing (floral, animal print, gradient)"
 certifications: "FDA, LFGB, SGS available upon request"
-main_image: "https://img.omlmo.com/file/ba-001-40oz-tumbler-main.jpg"
+main_image: "https://img.omlmo.com/file/1782734386451_629bei1.jpg"
 gallery_images:
-  - "https://img.omlmo.com/file/ba-001-40oz-tumbler-side.jpg"
-  - "https://img.omlmo.com/file/ba-001-40oz-tumbler-lid.jpg"
-  - "https://img.omlmo.com/file/ba-001-40oz-tumbler-colors.jpg"
+  - "https://img.omlmo.com/file/1782734381682_629bei2.jpg"
 image_alt: "40oz stainless steel insulated tumbler with handle wholesale"
 meta_title: "40oz Stainless Steel Tumbler with Handle Wholesale | Yiwu Drinkware Supplier"
 primary_keyword: "40oz stainless steel tumbler with handle wholesale"
 secondary_keywords: ["Stanley style tumbler wholesale", "insulated cup with handle bulk", "custom logo tumbler supplier", "vacuum insulated drinkware China"]
 faq:
   - question: "What is the MOQ for 40oz tumblers?"
-    answer: "The MOQ is 500 pcs per color. Mixed color orders are accepted with a minimum of 200 pcs per color when the total order reaches 1000 pcs."
+    answer: "The MOQ is 50 pcs per color. Mixed color orders are accepted with a minimum of 20 pcs per color when the total order reaches 200 pcs."
   - question: "Can we print our own logo on the tumbler?"
     answer: "Yes. We support UV printing, laser engraving and water transfer printing. Custom logo positioning and retail packaging design are available."
   - question: "What colors and finishes are available?"

@@ -35,7 +35,7 @@ carton_qty_pcs: 60
 carton_size_cm: "50 x 34 x 36"
 carton_gw_kg: 16
 carton_nw_kg: 14
-moq_pcs: 500
+moq_pcs: 50
 price_min_usd: 2.8
 price_max_usd: 4.5
 sample_available: true
@@ -44,18 +44,16 @@ lead_time_days: "20-30"
 mixed_order_supported: true
 customization_options: "Custom logo UV print or laser engraving, Pantone color matching, custom pattern, retail gift box, blister card packaging"
 certifications: "FDA, LFGB available upon request"
-main_image: "https://img.omlmo.com/file/ba-003-16oz-tumbler-main.jpg"
+main_image: "https://img.omlmo.com/file/1782734381682_629bei2.jpg"
 gallery_images:
-  - "https://img.omlmo.com/file/ba-003-16oz-tumbler-solid.jpg"
-  - "https://img.omlmo.com/file/ba-003-16oz-tumbler-marble.jpg"
-  - "https://img.omlmo.com/file/ba-003-16oz-tumbler-colors.jpg"
+  - "https://img.omlmo.com/file/1782734386451_629bei1.jpg"
 image_alt: "16oz compact stainless steel tumbler with handle wholesale"
 meta_title: "16oz Compact Stainless Steel Tumbler Wholesale | Small Insulated Cup Supplier"
 primary_keyword: "16oz stainless steel tumbler with handle wholesale"
 secondary_keywords: ["small insulated tumbler bulk", "compact drinkware wholesale", "kids stainless steel cup supplier", "promotional tumbler China"]
 faq:
   - question: "What is the MOQ for 16oz compact tumblers?"
-    answer: "The MOQ is 500 pcs per color. Mixed color and finish orders are accepted for total orders of 1000+ pcs."
+    answer: "The MOQ is 50 pcs per color. Mixed color and finish orders are accepted for total orders of 200+ pcs."
   - question: "Is this tumbler suitable for children?"
     answer: "Yes. The 16oz size and lightweight design are ideal for school-age children. The flip-straw lid is easy to operate and the side handle provides a secure grip."
   - question: "Can I create a family set with different sizes?"

@@ -35,7 +35,7 @@ carton_qty_pcs: 48
 carton_size_cm: "42 x 32 x 38"
 carton_gw_kg: 15.5
 carton_nw_kg: 13.5
-moq_pcs: 500
+moq_pcs: 50
 price_min_usd: 2.5
 price_max_usd: 4.2
 sample_available: true
@@ -44,18 +44,16 @@ lead_time_days: "20-30"
 mixed_order_supported: true
 customization_options: "Custom logo UV print or laser engraving, Pantone color matching, custom straw color, retail gift box, shrink wrap packaging"
 certifications: "FDA, LFGB available upon request"
-main_image: "https://img.omlmo.com/file/ba-005-20oz-slim-tumbler-main.jpg"
+main_image: "https://img.omlmo.com/file/1782734386451_629bei1.jpg"
 gallery_images:
-  - "https://img.omlmo.com/file/ba-005-20oz-slim-tumbler-straw.jpg"
-  - "https://img.omlmo.com/file/ba-005-20oz-slim-tumbler-colors.jpg"
-  - "https://img.omlmo.com/file/ba-005-20oz-slim-tumbler-lid.jpg"
+  - "https://img.omlmo.com/file/1782734381682_629bei2.jpg"
 image_alt: "20oz slim stainless steel insulated tumbler with straw wholesale"
 meta_title: "20oz Slim Stainless Steel Tumbler with Straw Wholesale | Reusable Drinkware Supplier"
 primary_keyword: "20oz slim stainless steel tumbler with straw wholesale"
 secondary_keywords: ["slim insulated cup bulk", "no handle tumbler supplier", "reusable straw cup China", "minimalist drinkware wholesale"]
 faq:
   - question: "What is the MOQ for slim tumblers?"
-    answer: "The MOQ is 500 pcs per color. Mixed color orders are accepted with 200 pcs minimum per color when total order reaches 1000 pcs."
+    answer: "The MOQ is 50 pcs per color. Mixed color orders are accepted with 20 pcs minimum per color when total order reaches 200 pcs."
   - question: "Does the tumbler come with a handle?"
     answer: "No. This is the handle-free slim design. If you need a tumbler with handle, please refer to our 40oz (BA-001), 24oz (BA-002) or 16oz (BA-003) models."
   - question: "Is the straw included?"

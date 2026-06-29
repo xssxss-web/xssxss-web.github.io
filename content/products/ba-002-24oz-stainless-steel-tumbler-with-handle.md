@@ -35,7 +35,7 @@ carton_qty_pcs: 48
 carton_size_cm: "52 x 36 x 38"
 carton_gw_kg: 17.5
 carton_nw_kg: 15
-moq_pcs: 500
+moq_pcs: 50
 price_min_usd: 3.2
 price_max_usd: 5.8
 sample_available: true
@@ -44,19 +44,16 @@ lead_time_days: "20-30"
 mixed_order_supported: true
 customization_options: "Custom logo UV print or laser engraving, Pantone color matching, two-tone handle color, custom pattern printing, retail gift box"
 certifications: "FDA, LFGB available upon request"
-main_image: "https://img.omlmo.com/file/ba-002-24oz-tumbler-main.jpg"
+main_image: "https://img.omlmo.com/file/1782734381682_629bei2.jpg"
 gallery_images:
-  - "https://img.omlmo.com/file/ba-002-24oz-tumbler-twotone.jpg"
-  - "https://img.omlmo.com/file/ba-002-24oz-tumbler-floral.jpg"
-  - "https://img.omlmo.com/file/ba-002-24oz-tumbler-embossed.jpg"
-  - "https://img.omlmo.com/file/ba-002-24oz-tumbler-colors.jpg"
+  - "https://img.omlmo.com/file/1782734386451_629bei1.jpg"
 image_alt: "24oz stainless steel insulated tumbler with handle wholesale"
 meta_title: "24oz Stainless Steel Tumbler with Handle Wholesale | Insulated Drinkware Supplier"
 primary_keyword: "24oz stainless steel tumbler with handle wholesale"
 secondary_keywords: ["medium insulated tumbler bulk", "two-tone tumbler supplier", "custom logo drinkware China", "corporate gift tumbler wholesale"]
 faq:
   - question: "What is the MOQ for 24oz tumblers?"
-    answer: "The MOQ is 500 pcs per color/finish. Mixed finish orders are accepted with 200 pcs minimum per finish when total order reaches 1000 pcs."
+    answer: "The MOQ is 50 pcs per color/finish. Mixed finish orders are accepted with 20 pcs minimum per finish when total order reaches 200 pcs."
   - question: "Can I mix two-tone and solid colors in one order?"
     answer: "Yes. Two-tone handle colors can be freely combined with any body color. Each color combination counts as one finish option."
   - question: "What printing methods are available for logos?"

@@ -35,7 +35,7 @@ carton_qty_pcs: 32
 carton_size_cm: "58 x 38 x 42"
 carton_gw_kg: 18.5
 carton_nw_kg: 14.5
-moq_pcs: 500
+moq_pcs: 50
 price_min_usd: 4.5
 price_max_usd: 7.5
 sample_available: true
@@ -44,18 +44,16 @@ lead_time_days: "25-35"
 mixed_order_supported: true
 customization_options: "Custom gradient color matching with Pantone references, logo printing, retail gift box design, custom packaging"
 certifications: "FDA, LFGB available upon request"
-main_image: "https://img.omlmo.com/file/ba-004-40oz-gradient-tumbler-main.jpg"
+main_image: "https://img.omlmo.com/file/1782734386451_629bei1.jpg"
 gallery_images:
-  - "https://img.omlmo.com/file/ba-004-40oz-gradient-tumbler-colors.jpg"
-  - "https://img.omlmo.com/file/ba-004-40oz-gradient-tumbler-detail.jpg"
-  - "https://img.omlmo.com/file/ba-004-40oz-gradient-tumbler-lid.jpg"
+  - "https://img.omlmo.com/file/1782734381682_629bei2.jpg"
 image_alt: "40oz gradient stainless steel insulated tumbler with handle wholesale"
 meta_title: "40oz Gradient Stainless Steel Tumbler Wholesale | Fashion Drinkware Supplier"
 primary_keyword: "40oz gradient stainless steel tumbler wholesale"
 secondary_keywords: ["gradient insulated cup bulk", "color block tumbler supplier", "fashion drinkware China wholesale", "trending tumbler supplier"]
 faq:
   - question: "What is the MOQ for gradient tumblers?"
-    answer: "The MOQ is 500 pcs per gradient color. Custom gradient color combinations require 1000 pcs MOQ with Pantone references provided."
+    answer: "The MOQ is 50 pcs per gradient color. Custom gradient color combinations require 200 pcs MOQ with Pantone references provided."
   - question: "Is the gradient coating durable?"
     answer: "The gradient finish uses a multi-layer powder coating process. It is scratch-resistant for normal daily use but may show wear with abrasive cleaning. Hand wash is recommended."
   - question: "Can I order gradient and solid colors together?"
