@@ -5,7 +5,7 @@ sku: "BA-019"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["bathroom-accessories"]
 subcategory: "bathroom-accessories"
 tags: ["designer toilet brush", "stainless steel toilet brush", "modern bathroom accessory", "luxury toilet brush set", "gold toilet brush", "wholesale bathroom set"]
 buyers: ["importers", "bathroom retailers", "home decor wholesalers", "amazon sellers", "hotel suppliers", "interior design suppliers"]
