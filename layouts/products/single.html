@@ -79,7 +79,7 @@
           {{ with .Params.color_options }}<div><span>Color Options</span><strong>{{ . }}</strong></div>{{ end }}
           {{ with .Params.size_cm }}<div><span>Size</span><strong>{{ . }} cm</strong></div>{{ end }}
           {{ with .Params.weight_g }}<div><span>Weight</span><strong>{{ . }} g</strong></div>{{ end }}
-          {{ with .Params.subcategory }}<div><span>Subcategory</span><strong>{{ . }}</strong></div>{{ end }}
+          {{ with .Params.subcategory }}<div><span>Subcategory</span><strong><a href="{{ "/subcategories/" | relURL }}{{ . | urlize }}/">{{ . }}</a></strong></div>{{ end }}
         </div>
       </div>
 
