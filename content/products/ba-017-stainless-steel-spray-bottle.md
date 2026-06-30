@@ -5,7 +5,7 @@ sku: "BA-017"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["bathroom-accessories"]
 subcategory: "bathroom-accessories"
 tags: ["stainless steel spray bottle", "cleaning spray bottle", "mist sprayer", "wholesale spray bottle", "metal sprayer", "kitchen spray bottle"]
 buyers: ["importers", "home goods retailers", "cleaning supply wholesalers", "amazon sellers", "garden supply distributors", "hotel suppliers"]

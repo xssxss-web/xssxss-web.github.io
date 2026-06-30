@@ -5,7 +5,7 @@ sku: "BA-018"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["bathroom-accessories"]
 subcategory: "bathroom-accessories"
 tags: ["stainless steel toilet brush", "toilet brush set", "bathroom cleaning tool", "ventilated toilet brush holder", "wholesale toilet brush", "metal bathroom accessory"]
 buyers: ["importers", "bathroom retailers", "home decor wholesalers", "amazon sellers", "hotel suppliers", "cleaning supply distributors"]

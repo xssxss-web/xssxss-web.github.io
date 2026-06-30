@@ -5,7 +5,7 @@ sku: "BA-015"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["bathroom-accessories"]
 subcategory: "bathroom-accessories"
 tags: ["stainless steel soap dispenser", "cone soap pump", "bathroom dispenser", "wholesale soap bottle", "metal lotion dispenser", "bathroom accessory set"]
 buyers: ["importers", "bathroom retailers", "home decor wholesalers", "amazon sellers", "hotel suppliers", "gift wholesalers"]
