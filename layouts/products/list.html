@@ -7,13 +7,13 @@
     <select id="category-select" onchange="if(this.value){window.location.href=this.value}">
       <option value="">Select a category</option>
       {{ range sort site.Data.categories "priority" }}
-        <option value="/subcategories/{{ .slug }}/">{{ .name }}</option>
+        <option value="/categories/{{ .slug }}/">{{ .name }}</option>
       {{ end }}
     </select>
   </div>
   <div class="category-filter" aria-label="Product categories">
     {{ range sort site.Data.categories "priority" }}
-      <a href="/subcategories/{{ .slug }}/">{{ .name }}</a>
+      <a href="/categories/{{ .slug }}/">{{ .name }}</a>
     {{ end }}
   </div>
   <div class="product-grid">

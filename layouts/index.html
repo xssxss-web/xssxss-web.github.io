@@ -14,7 +14,7 @@
   <h2>Main Categories</h2>
   <div class="category-grid">
     {{ range sort site.Data.categories "priority" }}
-      <a class="category-card" href="/subcategories/{{ .slug }}/">
+      <a class="category-card" href="/categories/{{ .slug }}/">
         <h3>{{ .name }}</h3>
         <p>{{ .description }}</p>
       </a>
