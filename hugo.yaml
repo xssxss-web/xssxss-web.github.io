@@ -9,6 +9,7 @@ taxonomies:
   tag: tags
   buyer: buyers
   usecase: usecases
+  subcategory: subcategories
 
 permalinks:
   products: "/products/:slug/"
