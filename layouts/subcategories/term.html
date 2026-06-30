@@ -1,0 +1,6 @@
+{{ define "main" }}
+{{ .Title }}
+{{ range .Pages }} {{ partial "product-card.html" . }} {{ end }}
+{{ end }}
+
+ 
