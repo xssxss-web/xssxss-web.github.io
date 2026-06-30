@@ -5,7 +5,7 @@ sku: "CT-001"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["cleaning-tools"]
 subcategory: "cleaning-tools"
 tags: ["microfiber mop", "flat floor mop", "cleaning mop set", "wholesale mop", "household cleaning tool", "hardwood floor mop"]
 buyers: ["importers", "home goods retailers", "cleaning supply wholesalers", "amazon sellers", "hotel suppliers", "department store buyers"]
