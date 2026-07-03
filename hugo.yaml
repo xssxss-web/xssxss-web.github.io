@@ -17,14 +17,14 @@ permalinks:
   guides: "/guides/:slug/"
 
 params:
-  siteType: "B2B Online Wholesale Showroom"
+  siteType: "OMLMO-B2B Online Wholesale Showroom"
   businessPositioning: "Home & Kitchen Wholesale Showroom from Yiwu China"
   defaultImage: "/images/default-product.jpg"
   whatsapp: "+8618006891977"
   email: "mike@omlmo.com"
   wechat: ""
   address: "Yiwu International Trade City, Zhejiang, China"
-  slogan: "Direct from Yiwu Market — Factory Prices, Flexible MOQ"
+  slogan: "Direct from Yiwu — Factory Prices, Flexible MOQ"
   defaultMOQ: "500 pcs"
   defaultLeadTime: "15-30 days"
   defaultPayment: "30% deposit, 70% before shipment"
