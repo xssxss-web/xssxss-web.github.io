@@ -1,5 +1,7 @@
 baseURL: "https://omlmo.com/"
-languageCode: "en-us"
+languageCode: "en-US"
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 title: "OMLMO Home & Kitchen Wholesale | Yiwu B2B Supplier"
 enableRobotsTXT: true
 summaryLength: 28
