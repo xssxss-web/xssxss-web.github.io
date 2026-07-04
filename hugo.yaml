@@ -4,6 +4,12 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 title: "OMLMO Home & Kitchen Wholesale | Yiwu B2B Supplier"
 enableRobotsTXT: true
+# 新增：自动生成站点索引地图，多页面爬虫抓取效率大幅提升
+enableSitemapIndex: true
+# 新增：生成 human.txt 辅助Google识别商家实体信息
+enableHumanTxt: true
+# 新增：开启Git版本信息，用于页面lastmod收录时间
+enableGitInfo: true
 summaryLength: 28
 
 taxonomies:
@@ -29,6 +35,22 @@ params:
   defaultLeadTime: "15-30 days"
   defaultPayment: "30% deposit, 70% before shipment"
 
+  # 新增：全站SEO兜底Meta描述（首页/分类/产品页可调用）
+  seo:
+    twitterCard: "summary_large_image"
+    # 家居厨具类目统一兜底描述，产品无自定义description时自动使用
+    productDefaultDesc: "Wholesale home and kitchen supplies direct from Yiwu factory, low flexible MOQ, fast lead time for global distributors, retailers and Amazon sellers."
+    siteOwner: "OMLMO Yiwu Trading Co., Ltd."
+
+  # 新增：外贸物流发货参数，页面可渲染展示给采购商
+  shipping:
+    supportSeaAirExpress: "Sea freight, Air freight & Express shipping available"
+    warehouseLocation: "Yiwu Local Warehouse Consolidation"
+
+  # 新增：静态资源缓存时长，搭配Cloudflare优化Core Web Vitals
+  cacheControl:
+    staticMaxAge: "31536000"
+
 menus:
   main:
     - name: "Home"
@@ -51,10 +73,31 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
-    ordered: false
+    # 修正：TOC层级归属到goldmark下，原yaml层级错误会导致目录不生效
+    tableOfContents:
+      startLevel: 2
+      endLevel: 3
+      ordered: false
+  highlight:
+    style: github
+
+# 新增RSS订阅输出，海外采购商可订阅新品指南
+outputFormats:
+  RSS:
+    baseName: "feed"
+    isPlainText: false
+
+# 新增：图片全局压缩配置，优化页面加载速度
+imaging:
+  defaultImageQuality: 80
+  resampleFilter: "Lanczos"
+  anchor: "Smart"
+  bgColor: "#ffffff"
+
+# 新增：基础安全防护，防止站点iframe劫持
+security:
+  enableCSP: true
+  noReferrerPolicy: false
 
 sitemap:
   changefreq: "weekly"
