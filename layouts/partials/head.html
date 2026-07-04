@@ -14,5 +14,63 @@
   <meta property="og:type" content="{{ if eq .Section "products" }}product{{ else }}website{{ end }}">
   {{ with .Params.main_image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
   {{ with .Params.sku }}<meta property="product:retailer_item_id" content="{{ . }}">{{ end }}
-  {{ if eq .Section "products" }}{{ partial "schema-product.html" . }}{{ end }}
+  
+ <script type="application/ld+json">
+{{/* 全局默认B2B产品参数，统一在此修改，全站产品共用 */}}
+{{ $defaultMoq := 100 }}
+{{ $defaultSamplePrice := 5 }}
+{{ $defaultLeadTime := "12-20 working days" }}
+{{ $defaultProductDesc := "OMLMO home & kitchen wholesale supplier, custom OEM packaging & logo support, flexible MOQ" }}
+
+{{/* 图片逻辑：第三方图床完整URL直接支持 */}}
+{{ $siteImage := .Site.Params.defaultOgImage }}
+{{ $pageImage := "" }}
+{{ if .Params.images }}{{ $pageImage = index .Params.images 0 }}{{ end }}
+{{ $finalImage := cond (ne $pageImage "") $pageImage $siteImage }}
+
+{{/* 描述逻辑：无外部partial依赖 */}}
+{{ $pageDesc := .Params.description | default "" }}
+{{ $finalDesc := $pageDesc }}
+{{ if and (eq .Type "products") (eq $pageDesc "") }}
+  {{ $finalDesc = $defaultProductDesc }}
+{{ end }}
+
+{
+  "@context": "https://schema.org",
+  "@type": {{ if .IsHome }}"WebSite"{{ else if eq .Type "products" }}"IndustrialProduct"{{ else }}"WebPage"{{ end }},
+  "url": "{{ .Permalink }}",
+  "name": {{ if .IsHome }}"{{ .Site.Title }}"{{ else }}"{{ .Title }}"{{ end }},
+  "description": "{{ $finalDesc }}",
+  "image": "{{ $finalImage }}"
+
+  {{/* 产品页专属字段 start */}}
+  {{ if eq .Type "products" }},
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Site.Params.brand }}"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.factoryName }}",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "aggregateOffer": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "offerCount": 1,
+    "minQuantity": {{ cond (isset .Params "moq") .Params.moq $defaultMoq }},
+    "samplePrice": {{ cond (isset .Params "samplePrice") .Params.samplePrice $defaultSamplePrice }},
+    "deliveryLeadTime": "{{ cond (isset .Params "leadTime") .Params.leadTime $defaultLeadTime }}",
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "https://schema.org/Wholesale",
+        "itemCondition": "https://schema.org/NewCondition"
+      }
+    ]
+  }
+  {{ end }}
+  {{/* 产品页专属字段 end */}}
+}
+</script>
 </head>
