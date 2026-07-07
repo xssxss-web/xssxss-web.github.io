@@ -1,0 +1,20 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML -}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{- range .Data.Pages -}}
+    {{- $exclude := false -}}
+    {{- if or (eq .Kind "term") (eq .Kind "taxonomy") -}}
+      {{- if or (eq .Section "tags") (eq .Section "buyers") (eq .Section "usecases") -}}
+        {{- $exclude = true -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not $exclude -}}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- with .Sitemap.Lastmod }}<lastmod>{{ . }}</lastmod>{{- end -}}
+    {{- with .Sitemap.ChangeFreq }}<changefreq>{{ . }}</changefreq>{{- end -}}
+    {{- with .Sitemap.Priority }}<priority>{{ . }}</priority>{{- end -}}
+  </url>
+    {{- end -}}
+  {{- end -}}
+</urlset>
