@@ -5,8 +5,8 @@ sku: "SO-020"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "storage"
+categories: ["storage-organization"]
+  
 subcategory: "home-storage"
 tags:
   - "wire pencil holder"
