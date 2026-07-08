@@ -5,7 +5,7 @@ sku: "SO-013"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage"]
+categories: ["storage-organization"]
 subcategory: "home-storage"
 tags: ["woven tray", "wood handle basket", "serving tray", "PP woven tray", "flat basket", "fruit tray", "round serving basket", "wholesale woven tray"]
 buyers: ["importers", "home goods retailers", "kitchenware distributors", "gift wholesalers", "amazon sellers", "tableware retailers", "hospitality suppliers"]
