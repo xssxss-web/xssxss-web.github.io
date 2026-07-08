@@ -5,8 +5,8 @@ sku: "SO-018"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "storage"
+categories: ["storage-organization"]
+ 
 subcategory: "home-storage"
 tags:
   - "wire oval basket"
