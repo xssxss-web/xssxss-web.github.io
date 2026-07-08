@@ -5,7 +5,7 @@ sku: "SO-014"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage"]
+categories: ["storage-organization"]
 subcategory: "home-storage"
 tags: ["fabric lined basket", "woven basket with liner", "pattern basket", "decorative storage basket", "removable liner basket", "gift basket", "cotton lined basket", "wholesale lined basket"]
 buyers: ["importers", "home goods retailers", "home decor distributors", "gift wholesalers", "amazon sellers", "baby product retailers", "boutique shops"]
