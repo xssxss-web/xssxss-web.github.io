@@ -5,7 +5,7 @@ sku: "SO-016"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage"]
+categories: ["storage-organization"]
 subcategory: "home-storage"
 tags: ["bread basket", "oval basket", "boat shape basket", "PP woven bread basket", "serving basket", "baguette basket", "elongated basket", "wholesale bread basket"]
 buyers: ["importers", "kitchenware retailers", "bakery suppliers", "restaurant suppliers", "home goods distributors", "amazon sellers", "tableware retailers"]
