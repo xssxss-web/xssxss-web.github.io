@@ -5,7 +5,7 @@ sku: "SO-011"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage"]
+categories: ["storage-organization"]
 subcategory: "home-storage"
 tags: ["woven basket", "PP rattan basket", "fruit basket", "two-tone basket", "handle basket", "storage basket", "picnic basket", "wholesale woven basket"]
 buyers: ["importers", "home goods retailers", "gift wholesalers", "supermarket suppliers", "home decor distributors", "amazon sellers", "picnic supply retailers"]
