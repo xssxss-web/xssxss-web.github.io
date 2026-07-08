@@ -5,7 +5,7 @@ sku: "SO-012"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage"]
+categories: ["storage-organization"]
 subcategory: "home-storage"
 tags: ["woven bowl basket", "wave edge basket", "decorative basket", "PP rattan bowl", "nesting basket", "serving basket", "tabletop organizer", "wholesale wave edge basket"]
 buyers: ["importers", "home goods retailers", "home decor distributors", "gift wholesalers", "amazon sellers", "tableware retailers", "florist suppliers"]
