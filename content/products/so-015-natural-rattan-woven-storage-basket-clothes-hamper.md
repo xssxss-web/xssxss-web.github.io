@@ -5,7 +5,7 @@ sku: "SO-015"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage"]
+categories: ["storage-organization"]
 subcategory: "home-storage"
 tags: ["natural rattan basket", "woven storage basket", "clothes hamper", "rattan laundry basket", "wicker storage", "deep basket", "natural wicker organizer", "wholesale rattan basket"]
 buyers: ["importers", "home goods retailers", "home decor distributors", "amazon sellers", "furniture retailers", "hotel suppliers", "closet organization buyers"]
