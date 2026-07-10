@@ -5,8 +5,7 @@ sku: "BA-059"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "beverage"
+categories: ["drinkware-bottles"]
 subcategory: "vacuum-bottles"
 tags:
   - "cartoon cow vacuum bottle"

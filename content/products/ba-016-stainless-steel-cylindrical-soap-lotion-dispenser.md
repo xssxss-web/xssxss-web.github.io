@@ -5,7 +5,7 @@ sku: "BA-016"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["bathroom-accessories"]
+categories: ["drinkware-bottles"]
 subcategory: "bathroom-accessories"
 tags: ["stainless steel soap dispenser", "cylindrical lotion bottle", "bathroom dispenser set", "wholesale dispenser", "metal soap pump", "bathroom accessory"]
 buyers: ["importers", "bathroom retailers", "home decor wholesalers", "amazon sellers", "hotel suppliers", "gift wholesalers"]

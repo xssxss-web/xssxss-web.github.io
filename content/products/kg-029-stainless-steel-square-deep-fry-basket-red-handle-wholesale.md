@@ -5,7 +5,7 @@ sku: "KG-029"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["cookware-bakeware"]
 subcategory: "kitchen-tools"
 tags: ["square fry basket", "deep fry basket", "red handle fry basket", "stainless steel square basket", "french fry basket", "frying basket", "restaurant fry basket", "wholesale square fry basket"]
 buyers: ["importers", "kitchenware retailers", "restaurant suppliers", "fast food equipment buyers", "catering distributors", "amazon sellers", "houseware wholesalers", "hotel suppliers"]

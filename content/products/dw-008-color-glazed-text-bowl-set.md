@@ -5,7 +5,7 @@ sku: "DW-008"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "dinnerware"
 tags: ["color glazed bowl", "text bowl", "ceramic bowl set", "happy bowl", "wholesale ceramic bowl", "colorful dinnerware"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "gift wholesalers", "restaurant suppliers", "amazon sellers"]

@@ -5,7 +5,7 @@ sku: "BA-026"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["sport water bottle", "plastic water bottle", "flip lid bottle", "text water bottle", "animal print bottle", "cute water bottle", "wholesale sport bottle", "Tritan water bottle"]
 buyers: ["importers", "sporting goods retailers", "gift wholesalers", "amazon sellers", "promotional product suppliers", "supermarket chains"]

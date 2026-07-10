@@ -5,9 +5,7 @@ sku: "BA-045"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "beverage"
-  - "outdoor"
+categories: ["drinkware-bottles"]
 subcategory: "vacuum-bottles"
 tags:
   - "sport water bottle"

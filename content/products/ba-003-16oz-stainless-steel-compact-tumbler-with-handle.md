@@ -5,7 +5,7 @@ sku: "BA-003"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "insulated-drinkware"
 tags: ["16oz tumbler", "compact stainless steel cup", "small insulated tumbler", "short tumbler with handle", "wholesale drinkware", "kids tumbler"]
 buyers: ["importers", "amazon sellers", "gift wholesalers", "drinkware retailers", "promotional product buyers", "school supply distributors"]

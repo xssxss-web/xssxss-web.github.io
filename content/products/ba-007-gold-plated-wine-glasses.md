@@ -5,7 +5,7 @@ sku: "BA-007"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "barware-glassware"
 tags: ["gold wine glasses", "gold champagne flutes", "plated wine glasses", "luxury glassware", "wholesale barware", "gold rim glasses"]
 buyers: ["importers", "barware distributors", "gift wholesalers", "wedding suppliers", "amazon sellers", "boutique shop buyers"]

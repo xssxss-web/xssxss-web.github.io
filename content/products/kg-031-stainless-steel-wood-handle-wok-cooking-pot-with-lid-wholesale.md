@@ -5,7 +5,7 @@ sku: "KG-031"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["cookware-bakeware"]
 subcategory: "cookware"
 tags: ["stainless steel wok", "wood handle wok", "cooking pot", "wok with lid", "chinese wok", "stir fry pan", "soup pot", "wholesale wok"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "amazon sellers", "supermarket suppliers", "restaurant suppliers", "asian kitchenware buyers", "houseware wholesalers"]

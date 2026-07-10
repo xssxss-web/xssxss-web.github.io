@@ -5,7 +5,7 @@ sku: "DW-003"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "dinnerware"
 tags: ["ceramic casserole dish", "covered serving dish", "porcelain tureen", "covered bowl set", "wholesale ceramic bakeware", "oven-to-table dish"]
 buyers: ["importers", "home goods retailers", "kitchenware distributors", "amazon sellers", "gift wholesalers", "hotel suppliers"]

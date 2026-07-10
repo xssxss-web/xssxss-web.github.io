@@ -5,7 +5,7 @@ sku: "KG-011"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "kids-dining"
 tags: ["divided kids plate", "silicone divided plate", "compartment plate", "kids feeding plate", "wholesale kids tableware", "suction plate"]
 buyers: ["importers", "baby product retailers", "toy wholesalers", "amazon sellers", "gift wholesalers", "kindergarten suppliers"]

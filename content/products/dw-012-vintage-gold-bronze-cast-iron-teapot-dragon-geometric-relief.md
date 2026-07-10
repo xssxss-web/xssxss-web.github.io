@@ -5,7 +5,7 @@ sku: "DW-012"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "drinkware"
 tags: ["gold bronze teapot", "vintage cast iron teapot", "dragon teapot", "geometric relief teapot", "antique style teapot", "wholesale bronze teapot", "ornate tetsubin"]
 buyers: ["importers", "tea shop suppliers", "gift wholesalers", "amazon sellers", "home decor retailers", "antique style distributors", "luxury kitchenware retailers"]

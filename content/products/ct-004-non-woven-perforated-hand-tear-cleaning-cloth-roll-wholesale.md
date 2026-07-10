@@ -5,8 +5,7 @@ sku: "CT-004"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "cleaning"
+categories: ["cleaning-tools"]
 subcategory: "cleaning-cloths"
 tags:
   - "hand tear cleaning cloth"

@@ -5,7 +5,7 @@ sku: "BA-036"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["collapsible coffee cup", "foldable travel mug", "silicone coffee cup", "multilayer collapsible cup", "portable coffee mug", "wholesale collapsible cup", "eco-friendly travel cup"]
 buyers: ["importers", "coffee shop suppliers", "travel accessory retailers", "amazon sellers", "eco-friendly product distributors", "corporate gift suppliers"]

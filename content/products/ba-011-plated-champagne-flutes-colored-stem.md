@@ -5,7 +5,7 @@ sku: "BA-011"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "barware-glassware"
 tags: ["champagne flutes", "colored stem glasses", "plated champagne glasses", "colorful barware", "wholesale glassware", "party champagne glasses"]
 buyers: ["importers", "barware distributors", "wedding suppliers", "gift wholesalers", "amazon sellers", "party supply buyers"]

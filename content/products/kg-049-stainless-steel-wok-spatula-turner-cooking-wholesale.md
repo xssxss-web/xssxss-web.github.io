@@ -5,8 +5,7 @@ sku: "KG-049"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "kitchen-gadgets"
+categories: ["cookware-bakeware"]
 subcategory: "kitchen-tools"
 tags:
   - "stainless steel wok spatula"

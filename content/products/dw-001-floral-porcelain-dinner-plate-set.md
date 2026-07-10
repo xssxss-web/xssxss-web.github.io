@@ -5,7 +5,7 @@ sku: "DW-001"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "dinnerware"
 tags: ["porcelain dinner plate", "floral dinnerware set", "ceramic plate set", "wholesale porcelain plates", "elegant dinner set", "kitchen tableware"]
 buyers: ["importers", "home goods retailers", "tableware distributors", "amazon sellers", "gift wholesalers", "hotel suppliers"]

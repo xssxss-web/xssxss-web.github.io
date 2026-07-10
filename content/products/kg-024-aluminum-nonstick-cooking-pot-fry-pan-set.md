@@ -5,7 +5,7 @@ sku: "KG-024"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["cookware-bakeware"]
 subcategory: "cookware"
 tags: ["aluminum cooking pot", "non-stick fry pan", "cookware set", "glass lid pot", "nonstick cooking set", "white body pot", "red dot handle", "wholesale cookware set"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "amazon sellers", "supermarket suppliers", "department stores", "houseware wholesalers"]

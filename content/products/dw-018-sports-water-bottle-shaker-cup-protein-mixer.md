@@ -5,7 +5,7 @@ sku: "DW-018"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["beverage"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["sports water bottle", "shaker cup", "protein shaker", "gym bottle", "fitness water bottle", "mixing bottle", "workout bottle", "wholesale shaker cup"]
 buyers: ["importers", "sports retailers", "fitness equipment distributors", "amazon sellers", "gym suppliers", "supplement brands", "promotional product companies"]

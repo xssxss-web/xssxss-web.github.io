@@ -5,7 +5,7 @@ sku: "BA-029"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["timer water bottle", "panda water bottle", "clock dial bottle", "reminder bottle", "smart water bottle", "wholesale timer sport bottle", "cute sport bottle"]
 buyers: ["importers", "sporting goods retailers", "gift wholesalers", "amazon sellers", "health and fitness retailers", "school suppliers"]

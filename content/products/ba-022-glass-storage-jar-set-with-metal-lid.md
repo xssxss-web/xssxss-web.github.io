@@ -5,7 +5,7 @@ sku: "BA-022"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage-organization"]
+categories: ["drinkware-bottles"]
 subcategory: "kitchen-storage"
 tags: ["glass storage jar", "mason jar", "glass canister with lid", "diamond pattern jar", "wholesale glass jar", "kitchen storage container"]
 buyers: ["importers", "home goods retailers", "kitchenware distributors", "amazon sellers", "gift wholesalers", "dry goods stores"]

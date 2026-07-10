@@ -5,9 +5,7 @@ sku: "KG-036"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "kitchen-gadgets"
-  - "outdoor"
+categories: ["outdoor-camping"]
 subcategory: "outdoor-cooking"
 tags:
   - "butane torch"

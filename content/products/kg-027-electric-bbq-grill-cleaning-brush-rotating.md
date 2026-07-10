@@ -5,7 +5,7 @@ sku: "KG-027"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["outdoor-camping"]
 subcategory: "bbq-tools"
 tags: ["electric bbq brush", "grill cleaning brush", "rotating scrubber", "bbq cleaner", "electric grill brush", "with water spray", "bbq cleaning tool", "wholesale electric brush"]
 buyers: ["importers", "bbq supply retailers", "outdoor gear retailers", "amazon sellers", "home goods distributors", "grill manufacturers", "bbq accessory brands"]

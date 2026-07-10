@@ -5,8 +5,7 @@ sku: "BA-060"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "beverage"
+categories: ["drinkware-bottles"]
 subcategory: "vacuum-bottles"
 tags:
   - "premium animal vacuum flask"

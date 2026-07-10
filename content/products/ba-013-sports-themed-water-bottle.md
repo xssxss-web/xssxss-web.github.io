@@ -5,7 +5,7 @@ sku: "BA-013"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "sports-drinkware"
 tags: ["sports water bottle", "themed water bottle", "football bottle", "pumpkin bottle", "kids sports bottle", "wholesale sports drinkware"]
 buyers: ["importers", "sports retailers", "toy wholesalers", "amazon sellers", "gift wholesalers", "school supply distributors"]

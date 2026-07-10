@@ -5,7 +5,7 @@ sku: "DW-010"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "drinkware"
 tags: ["cast iron teapot", "enamel teapot", "tetsubin", "floral teapot", "dragon teapot", "bamboo teapot", "wholesale cast iron teapot", "japanese teapot"]
 buyers: ["importers", "tea shop suppliers", "gift wholesalers", "amazon sellers", "home decor retailers", "boutique stores", "asian kitchenware distributors"]

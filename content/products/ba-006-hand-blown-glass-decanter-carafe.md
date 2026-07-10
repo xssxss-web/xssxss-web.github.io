@@ -5,7 +5,7 @@ sku: "BA-006"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "barware-glassware"
 tags: ["glass decanter", "wine decanter", "glass carafe", "hand blown glass", "wholesale barware", "wine accessories"]
 buyers: ["importers", "barware distributors", "wine shop suppliers", "amazon sellers", "gift wholesalers", "restaurant suppliers"]

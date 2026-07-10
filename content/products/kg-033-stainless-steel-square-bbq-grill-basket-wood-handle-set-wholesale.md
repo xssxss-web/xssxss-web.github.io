@@ -5,7 +5,7 @@ sku: "KG-033"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["outdoor-camping"]
 subcategory: "bbq-tools"
 tags: ["bbq grill basket", "square grill net", "stainless steel grill basket", "wood handle bbq basket", "barbecue basket", "outdoor grill basket", "camping grill net", "wholesale bbq basket"]
 buyers: ["importers", "bbq supply retailers", "outdoor gear retailers", "amazon sellers", "home goods distributors", "camping suppliers", "grill accessory brands", "supermarket suppliers"]

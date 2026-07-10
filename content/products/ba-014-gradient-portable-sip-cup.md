@@ -5,7 +5,7 @@ sku: "BA-014"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "portable-drinkware"
 tags: ["gradient water bottle", "portable sip cup", "collapsible cup", "travel coffee cup", "wholesale drinkware", "gradient tumbler"]
 buyers: ["importers", "lifestyle retailers", "coffee shop suppliers", "amazon sellers", "gift wholesalers", "travel accessory buyers"]

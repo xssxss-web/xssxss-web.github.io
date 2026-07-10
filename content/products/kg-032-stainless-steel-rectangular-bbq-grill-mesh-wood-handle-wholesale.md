@@ -5,7 +5,7 @@ sku: "KG-032"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["outdoor-camping"]
 subcategory: "bbq-tools"
 tags: ["bbq grill mesh", "stainless steel grill net", "rectangular bbq grill", "wood handle grill basket", "barbecue grill mesh", "outdoor grill net", "bbq cooking grid", "wholesale bbq grill"]
 buyers: ["importers", "bbq supply retailers", "outdoor gear retailers", "amazon sellers", "home goods distributors", "grill manufacturers", "camping suppliers", "bbq accessory brands"]

@@ -5,7 +5,7 @@ sku: "KG-007"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "coffee-tools"
 tags: ["milk frother", "electric whisk", "coffee frother", "handheld frother", "kitchen gadgets", "wholesale coffee tools"]
 buyers: ["importers", "coffee shop suppliers", "kitchenware retailers", "amazon sellers", "gift wholesalers", "supermarket buyers"]

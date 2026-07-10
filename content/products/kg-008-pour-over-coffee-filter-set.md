@@ -5,7 +5,7 @@ sku: "KG-008"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "coffee-tools"
 tags: ["pour over coffee", "coffee filter", "drip coffee maker", "coffee tools", "wholesale coffee accessories", "stainless steel filter"]
 buyers: ["importers", "coffee shop suppliers", "kitchenware retailers", "amazon sellers", "gift wholesalers", "specialty coffee buyers"]

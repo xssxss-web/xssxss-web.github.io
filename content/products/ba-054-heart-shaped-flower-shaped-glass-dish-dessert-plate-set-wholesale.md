@@ -5,9 +5,7 @@ sku: "BA-054"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "beverage"
-  - "kitchen-gadgets"
+categories: ["tableware-dining"]
 subcategory: "glassware"
 tags:
   - "heart shaped glass dish"

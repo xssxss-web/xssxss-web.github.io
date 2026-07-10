@@ -5,7 +5,7 @@ sku: "BA-030"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["clear glitter tumbler", "rainbow tumbler", "unicorn cup", "heart charm tumbler", "floating charm cup", "wholesale clear acrylic tumbler", "iridescent tumbler", "gift tumbler"]
 buyers: ["importers", "gift retailers", "party supply wholesalers", "amazon sellers", "boutique stores", "florist suppliers", "wedding favor suppliers"]

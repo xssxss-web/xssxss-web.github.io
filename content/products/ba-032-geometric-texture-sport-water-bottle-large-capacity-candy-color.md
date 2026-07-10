@@ -5,7 +5,7 @@ sku: "BA-032"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["geometric water bottle", "diamond texture bottle", "sport bottle large capacity", "candy color bottle", "grip texture bottle", "wholesale sport bottle", "plastic water bottle"]
 buyers: ["importers", "sporting goods retailers", "gym suppliers", "amazon sellers", "supermarket chains", "promotional product suppliers"]

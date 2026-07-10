@@ -5,7 +5,7 @@ sku: "DW-021"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "beverage"]
+categories: ["kitchen-gadgets"]
 subcategory: "kitchen-tools"
 tags: ["silicone ice cube tray", "ice mold", "sports water cup", "insulated bottle", "ice maker", "reusable ice tray", "kitchen silicone mold", "wholesale ice tray"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "amazon sellers", "supermarket suppliers", "bar supply distributors", "summer seasonal buyers", "houseware wholesalers"]

@@ -5,7 +5,7 @@ sku: "DW-020"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["storage-organization"]
 subcategory: "storage"
 tags: ["lunch box", "bento box", "food container", "meal prep container", "food storage box", "kids lunch box", "microwave safe container", "wholesale lunch box"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "amazon sellers", "supermarket suppliers", "school supply buyers", "office supply distributors", "meal prep retailers"]

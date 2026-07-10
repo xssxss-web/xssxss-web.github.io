@@ -5,7 +5,7 @@ sku: "BA-037"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["large capacity tumbler", "stainless steel tumbler with handle", "40oz tumbler", "leopard print tumbler", "vacuum insulated mug", "wholesale large tumbler", "travel mug with handle"]
 buyers: ["importers", "kitchenware retailers", "gift wholesalers", "amazon sellers", "coffee shop suppliers", "boutique stores", "supermarket chains"]

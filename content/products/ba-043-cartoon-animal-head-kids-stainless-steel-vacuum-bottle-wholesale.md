@@ -5,9 +5,7 @@ sku: "BA-043"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "beverage"
-  - "kitchen-gadgets"
+categories: ["drinkware-bottles"]
 subcategory: "vacuum-bottles"
 tags:
   - "kids water bottle"

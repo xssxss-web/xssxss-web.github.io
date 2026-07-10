@@ -5,7 +5,7 @@ sku: "BA-034"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["stainless steel tumbler", "insulated tumbler", "cartoon tumbler", "large handle tumbler", "straw tumbler", "wholesale stainless tumbler", "vacuum insulated cup"]
 buyers: ["importers", "kitchenware retailers", "gift wholesalers", "amazon sellers", "coffee shop suppliers", "boutique stores"]

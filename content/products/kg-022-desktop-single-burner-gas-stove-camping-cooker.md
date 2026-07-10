@@ -5,7 +5,7 @@ sku: "KG-022"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["outdoor-camping"]
 subcategory: "outdoor-cooking"
 tags: ["desktop gas stove", "single burner stove", "camping cooker", "portable gas burner", "gas cook stove", "outdoor cooking stove", "butane gas stove", "wholesale gas stove"]
 buyers: ["importers", "outdoor gear retailers", "camping suppliers", "restaurant suppliers", "amazon sellers", "outdoor living distributors", "kitchen appliance wholesalers"]

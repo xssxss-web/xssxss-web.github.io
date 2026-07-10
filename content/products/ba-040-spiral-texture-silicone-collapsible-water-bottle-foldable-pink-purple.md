@@ -5,7 +5,7 @@ sku: "BA-040"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["spiral texture bottle", "silicone collapsible bottle", "foldable water bottle", "pink purple bottle", "textured silicone bottle", "wholesale collapsible bottle", "travel water bottle"]
 buyers: ["importers", "travel accessory retailers", "sporting goods wholesalers", "amazon sellers", "outdoor gear distributors", "promotional product suppliers"]

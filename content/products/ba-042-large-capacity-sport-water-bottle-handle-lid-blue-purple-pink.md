@@ -5,7 +5,7 @@ sku: "BA-042"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["large sport water bottle", "handle lid bottle", "blue water bottle", "purple sport bottle", "pink drink bottle", "wholesale sport bottle", "gym water bottle"]
 buyers: ["importers", "sporting goods retailers", "gym suppliers", "amazon sellers", "supermarket chains", "promotional product suppliers"]

@@ -5,7 +5,7 @@ sku: "KG-020"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "coffee-tools"
 tags: ["electric coffee grinder", "coffee bean grinder", "spice mill", "electric spice grinder", "wholesale coffee grinder", "kitchen electric appliance"]
 buyers: ["importers", "kitchen appliance retailers", "coffee equipment distributors", "amazon sellers", "hotel suppliers", "gift wholesalers"]

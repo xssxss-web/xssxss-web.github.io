@@ -5,7 +5,7 @@ sku: "DW-007"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "drinkware"
 tags: ["geometric cup saucer", "checkered mug", "patterned tea set", "modern ceramic cup", "wholesale geometric drinkware", "contemporary tableware"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "amazon sellers", "cafe suppliers", "hotel suppliers"]

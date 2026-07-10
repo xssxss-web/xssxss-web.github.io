@@ -5,7 +5,7 @@ sku: "DW-006"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "drinkware"
 tags: ["floral cup saucer", "heart pattern mug", "ceramic tea set", "flower print cup", "wholesale cup saucer", "romantic drinkware"]
 buyers: ["importers", "kitchenware retailers", "gift wholesalers", "florist suppliers", "amazon sellers", "bridal shops"]

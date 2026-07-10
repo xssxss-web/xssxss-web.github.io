@@ -5,8 +5,7 @@ sku: "KG-043"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "kitchen-gadgets"
+categories: ["kitchen-gadgets"]
 subcategory: "kitchen-tools"
 tags:
   - "stainless steel salt shaker"

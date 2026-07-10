@@ -5,7 +5,7 @@ sku: "BA-021"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "glass-drinkware"
 tags: ["smoked glass pitcher", "tapered glass jug", "gray glass water pitcher", "elegant glass carafe", "wholesale glass pitcher", "modern glassware"]
 buyers: ["importers", "home decor retailers", "kitchenware distributors", "amazon sellers", "gift wholesalers", "hotel suppliers"]

@@ -5,7 +5,7 @@ sku: "BA-004"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "insulated-drinkware"
 tags: ["gradient tumbler", "40oz insulated cup", "color block tumbler", "fashion drinkware", "wholesale tumbler", "private label gradient cup"]
 buyers: ["importers", "amazon sellers", "fashion retailers", "gift wholesalers", "lifestyle brand buyers", "promotional product companies"]

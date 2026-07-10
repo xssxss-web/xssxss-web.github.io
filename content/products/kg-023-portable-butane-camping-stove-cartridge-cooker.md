@@ -5,7 +5,7 @@ sku: "KG-023"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["outdoor-camping"]
 subcategory: "outdoor-cooking"
 tags: ["portable camping stove", "butane stove", "cartridge cooker", "outdoor portable stove", "hiking camping cooker", "butane gas stove", "compact camping stove", "wholesale portable stove"]
 buyers: ["importers", "outdoor gear retailers", "camping suppliers", "hiking gear distributors", "amazon sellers", "emergency prep suppliers", "outdoor living brands"]

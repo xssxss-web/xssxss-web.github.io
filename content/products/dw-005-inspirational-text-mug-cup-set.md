@@ -5,7 +5,7 @@ sku: "DW-005"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "drinkware"
 tags: ["text mug", "inspirational mug", "smile mug", "happy mug", "dream mug", "wholesale ceramic mug"]
 buyers: ["importers", "kitchenware retailers", "gift wholesalers", "coffee shop suppliers", "amazon sellers", "stationery stores"]

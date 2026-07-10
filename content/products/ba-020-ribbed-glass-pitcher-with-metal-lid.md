@@ -5,7 +5,7 @@ sku: "BA-020"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "glass-drinkware"
 tags: ["glass pitcher", "ribbed water jug", "glass water pitcher", "metal lid pitcher", "wholesale glass jug", "kitchen glassware"]
 buyers: ["importers", "home goods retailers", "kitchenware distributors", "amazon sellers", "gift wholesalers", "hotel suppliers"]

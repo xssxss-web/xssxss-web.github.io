@@ -5,7 +5,7 @@ sku: "BA-005"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "insulated-drinkware"
 tags: ["slim tumbler", "20oz stainless steel cup", "reusable straw tumbler", "skinny tumbler", "no handle tumbler wholesale", "bulk tumblers"]
 buyers: ["importers", "amazon sellers", "drinkware distributors", "coffee shop suppliers", "gift wholesalers", "eco-friendly product retailers"]

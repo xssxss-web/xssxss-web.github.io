@@ -5,7 +5,7 @@ sku: "DW-013"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "drinkware"
 tags: ["green cast iron teapot", "bamboo teapot", "nature teapot", "vertical stripe teapot", "forest green teapot", "wholesale green teapot", "organic teapot"]
 buyers: ["importers", "tea shop suppliers", "gift wholesalers", "amazon sellers", "home decor retailers", "nature-inspired product distributors", "wellness retailers"]

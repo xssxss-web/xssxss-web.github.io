@@ -5,7 +5,7 @@ sku: "DW-002"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "dinnerware"
 tags: ["pierced porcelain plate", "reticulated dinnerware", "openwork ceramic plate", "cutout plate set", "wholesale pierced plate", "decorative tableware"]
 buyers: ["importers", "home decor retailers", "tableware distributors", "amazon sellers", "gift wholesalers", "hotel suppliers"]

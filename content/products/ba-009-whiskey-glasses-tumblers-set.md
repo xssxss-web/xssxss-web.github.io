@@ -5,7 +5,7 @@ sku: "BA-009"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "barware-glassware"
 tags: ["whiskey glasses", "whiskey tumblers", "old fashioned glasses", "rocks glasses", "wholesale barware", "spirit glasses"]
 buyers: ["importers", "barware distributors", "liquor store suppliers", "amazon sellers", "gift wholesalers", "restaurant suppliers"]

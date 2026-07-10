@@ -5,7 +5,7 @@ sku: "KG-006"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "coffee-tools"
 tags: ["electric coffee grinder", "coffee bean grinder", "small coffee mill", "kitchen gadgets", "wholesale coffee tools", "private label coffeeware"]
 buyers: ["importers", "coffee shop suppliers", "kitchenware retailers", "amazon sellers", "gift wholesalers", "supermarket buyers"]

@@ -5,8 +5,7 @@ sku: "KG-050"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "kitchen-gadgets"
+categories: ["kitchen-gadgets"]
 subcategory: "kitchen-tools"
 tags:
   - "gold kitchen utensil set"

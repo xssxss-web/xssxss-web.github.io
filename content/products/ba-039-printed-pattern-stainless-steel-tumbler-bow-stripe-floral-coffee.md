@@ -5,7 +5,7 @@ sku: "BA-039"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["printed tumbler", "pattern stainless steel bottle", "bow print tumbler", "floral water bottle", "coffee tumbler", "wholesale printed bottle", "designer drinkware"]
 buyers: ["importers", "gift retailers", "amazon sellers", "boutique stores", "coffee shop suppliers", "stationery shops"]

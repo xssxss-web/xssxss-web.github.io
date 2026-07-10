@@ -5,7 +5,7 @@ sku: "KG-030"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["cookware-bakeware"]
 subcategory: "cookware"
 tags: ["stainless steel frying pan", "non-stick pan", "black handle pan", "fry pan", "skillet", "cooking pan", "saute pan", "wholesale frying pan"]
 buyers: ["importers", "kitchenware retailers", "home goods distributors", "amazon sellers", "supermarket suppliers", "department stores", "houseware wholesalers", "restaurant suppliers"]

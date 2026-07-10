@@ -5,7 +5,7 @@ sku: "BA-035"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["shaped water bottle", "themed water bottle", "pumpkin bottle", "basketball bottle", "bear bottle", "novelty drink bottle", "wholesale shaped bottle", "character bottle"]
 buyers: ["importers", "gift retailers", "party supply wholesalers", "amazon sellers", "theme park suppliers", "seasonal product distributors"]

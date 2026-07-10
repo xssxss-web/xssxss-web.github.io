@@ -5,7 +5,7 @@ sku: "BA-008"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "barware-glassware"
 tags: ["colored wine glasses", "colored glassware", "rainbow wine glasses", "tinted wine glasses", "wholesale glassware", "colored champagne flutes"]
 buyers: ["importers", "barware distributors", "gift wholesalers", "home goods retailers", "amazon sellers", "party supply buyers"]

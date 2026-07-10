@@ -5,7 +5,7 @@ sku: "BA-041"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["football shaped bottle", "sports water bottle", "leather texture bottle", "american football bottle", "novelty sport bottle", "wholesale shaped bottle", "fan merchandise"]
 buyers: ["importers", "sports merchandise retailers", "gift wholesalers", "amazon sellers", "theme park suppliers", "promotional product distributors", "sporting goods stores"]

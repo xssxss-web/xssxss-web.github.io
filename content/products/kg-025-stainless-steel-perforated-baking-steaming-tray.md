@@ -5,7 +5,7 @@ sku: "KG-025"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["cookware-bakeware"]
 subcategory: "bbq-tools"
 tags: ["perforated tray", "stainless steel tray", "baking tray", "steaming tray", "draining tray", "bbq tray", "rectangular metal tray", "wholesale perforated tray"]
 buyers: ["importers", "kitchenware retailers", "bbq supply retailers", "bakery suppliers", "amazon sellers", "restaurant suppliers", "catering supply distributors"]

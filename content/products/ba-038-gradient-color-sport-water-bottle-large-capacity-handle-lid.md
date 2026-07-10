@@ -5,7 +5,7 @@ sku: "BA-038"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["gradient water bottle", "ombre sport bottle", "large capacity water bottle", "colorful sport bottle", "wholesale gradient bottle", "handle lid bottle", "insulated sport bottle"]
 buyers: ["importers", "sporting goods retailers", "gym suppliers", "amazon sellers", "gift wholesalers", "outdoor gear distributors"]

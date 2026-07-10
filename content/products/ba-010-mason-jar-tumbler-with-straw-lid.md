@@ -5,7 +5,7 @@ sku: "BA-010"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "barware-glassware"
 tags: ["mason jar tumbler", "glass tumbler with straw", "mason jar cup", "iced coffee glass", "wholesale drinkware", "glass mason jar"]
 buyers: ["importers", "drinkware distributors", "coffee shop suppliers", "amazon sellers", "gift wholesalers", "promotional product buyers"]

@@ -5,7 +5,7 @@ sku: "DW-009"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "drinkware"
 tags: ["blue white cup saucer", "traditional porcelain tea set", "willow pattern cup", "blue floral cup", "wholesale blue white drinkware", "classic tableware"]
 buyers: ["importers", "kitchenware retailers", "gift wholesalers", "tea shop suppliers", "amazon sellers", "hotel suppliers"]

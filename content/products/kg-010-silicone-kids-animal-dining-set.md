@@ -5,7 +5,7 @@ sku: "KG-010"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "kids-dining"
 tags: ["kids dining set", "silicone kids plates", "animal plates", "kids feeding set", "wholesale kids tableware", "silicone baby dishes"]
 buyers: ["importers", "baby product retailers", "toy wholesalers", "amazon sellers", "gift wholesalers", "kindergarten suppliers"]

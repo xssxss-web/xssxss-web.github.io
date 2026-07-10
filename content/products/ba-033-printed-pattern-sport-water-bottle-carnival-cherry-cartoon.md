@@ -5,7 +5,7 @@ sku: "BA-033"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["printed water bottle", "pattern sport bottle", "carnival bottle", "cherry print bottle", "cartoon water bottle", "cute drink bottle", "wholesale printed bottle"]
 buyers: ["importers", "gift retailers", "amazon sellers", "boutique stores", "school suppliers", "promotional product wholesalers"]

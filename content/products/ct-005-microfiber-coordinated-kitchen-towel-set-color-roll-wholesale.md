@@ -5,8 +5,7 @@ sku: "CT-005"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "cleaning"
+categories: ["cleaning-tools"]
 subcategory: "cleaning-cloths"
 tags:
   - "microfiber towel set"

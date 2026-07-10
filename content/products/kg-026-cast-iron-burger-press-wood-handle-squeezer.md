@@ -5,7 +5,7 @@ sku: "KG-026"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets", "outdoor"]
+categories: ["outdoor-camping"]
 subcategory: "bbq-tools"
 tags: ["burger press", "cast iron press", "meat squeezer", "wood handle press", "hamburger press", "bbq press", "steak press", "wholesale burger press"]
 buyers: ["importers", "bbq supply retailers", "outdoor gear retailers", "amazon sellers", "kitchenware retailers", "grill accessory suppliers", "home goods distributors"]

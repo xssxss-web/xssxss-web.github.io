@@ -5,7 +5,7 @@ sku: "BA-002"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "insulated-drinkware"
 tags: ["24oz tumbler", "stainless steel cup with handle", "insulated tumbler wholesale", "two-tone tumbler", "medium tumbler", "private label drinkware"]
 buyers: ["importers", "amazon sellers", "gift wholesalers", "drinkware distributors", "promotional product buyers", "supermarket buyers"]

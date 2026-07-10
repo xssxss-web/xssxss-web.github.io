@@ -5,7 +5,7 @@ sku: "KG-028"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["cookware-bakeware"]
 subcategory: "kitchen-tools"
 tags: ["round fry basket", "deep fry basket", "stainless steel fry basket", "wire mesh basket", "frying basket", "oil draining basket", "kitchen fryer basket", "wholesale fry basket"]
 buyers: ["importers", "kitchenware retailers", "restaurant suppliers", "catering distributors", "amazon sellers", "supermarket suppliers", "houseware wholesalers", "fast food equipment buyers"]

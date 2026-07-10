@@ -5,7 +5,7 @@ sku: "SO-022"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage-organization"]
+categories: ["kitchen-gadgets"]
 subcategory: "home-storage"
 tags:
   - "wire trivet"

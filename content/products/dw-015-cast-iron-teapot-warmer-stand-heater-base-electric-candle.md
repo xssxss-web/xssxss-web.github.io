@@ -5,7 +5,7 @@ sku: "DW-015"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "drinkware"
 tags: ["teapot warmer", "teapot stand", "heater base", "cast iron warmer", "tea candle warmer", "electric teapot warmer", "wholesale teapot stand", "tea accessory"]
 buyers: ["importers", "tea shop suppliers", "gift wholesalers", "amazon sellers", "home decor retailers", "kitchenware distributors", "restaurant suppliers"]

@@ -5,7 +5,7 @@ sku: "DW-004"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["tableware-dining"]
 subcategory: "drinkware"
 tags: ["ceramic cup saucer set", "porcelain tea cup set", "gift boxed cup set", "floral porcelain cup", "gold rim cup", "wholesale tea set"]
 buyers: ["importers", "kitchenware retailers", "gift wholesalers", "coffee shop suppliers", "hotel suppliers", "amazon sellers"]

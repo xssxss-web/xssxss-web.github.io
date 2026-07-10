@@ -5,7 +5,7 @@ sku: "DW-011"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "drinkware"
 tags: ["black cast iron teapot", "hammered teapot", "textured tetsubin", "traditional teapot", "relief pattern teapot", "wholesale black teapot", "japanese cast iron"]
 buyers: ["importers", "tea shop suppliers", "gift wholesalers", "amazon sellers", "home decor retailers", "asian kitchenware distributors", "restaurant suppliers"]

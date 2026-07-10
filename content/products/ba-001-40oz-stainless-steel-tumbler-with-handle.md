@@ -5,7 +5,7 @@ sku: "BA-001"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "insulated-drinkware"
 tags: ["stainless steel tumbler", "40oz tumbler", "insulated cup with handle", "wholesale drinkware", "Stanley style cup", "private label tumbler", "bulk tumblers"]
 buyers: ["importers", "distributors", "amazon sellers", "supermarket buyers", "promotional product buyers", "drinkware retailers", "gift wholesalers"]

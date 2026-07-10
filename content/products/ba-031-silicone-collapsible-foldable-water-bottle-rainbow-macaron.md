@@ -5,7 +5,7 @@ sku: "BA-031"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["collapsible water bottle", "foldable silicone bottle", "rainbow water bottle", "macaron color bottle", "portable travel bottle", "wholesale silicone bottle", "space-saving bottle"]
 buyers: ["importers", "sporting goods retailers", "travel accessory wholesalers", "amazon sellers", "promotional product suppliers", "outdoor gear distributors"]

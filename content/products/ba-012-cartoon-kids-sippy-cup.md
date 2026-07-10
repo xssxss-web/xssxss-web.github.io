@@ -5,7 +5,7 @@ sku: "BA-012"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "kids-drinkware"
 tags: ["kids sippy cup", "cartoon water bottle", "children straw cup", "cute kids bottle", "wholesale kids drinkware", "animal water bottle"]
 buyers: ["importers", "baby product retailers", "toy wholesalers", "amazon sellers", "gift wholesalers", "school supply distributors"]

@@ -5,7 +5,7 @@ sku: "DW-014"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "drinkware"
 tags: ["red cast iron teapot", "wine red teapot", "crimson teapot", "textured red teapot", "classic teapot", "wholesale red teapot", "chinese red teapot"]
 buyers: ["importers", "tea shop suppliers", "gift wholesalers", "amazon sellers", "home decor retailers", "chinese new year suppliers", "wedding gift retailers"]

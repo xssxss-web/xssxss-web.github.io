@@ -5,7 +5,7 @@ sku: "SO-005"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["storage-organization"]
+categories: ["kitchen-gadgets"]
 subcategory: "food-prep-tools"
 tags: ["mixing bowl set", "stainless steel bowls", "gold cocktail shaker", "PVD gold drinkware", "wholesale barware", "kitchen prep tools"]
 buyers: ["importers", "kitchenware retailers", "barware distributors", "amazon sellers", "gift wholesalers", "restaurant suppliers"]

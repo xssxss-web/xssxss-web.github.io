@@ -5,8 +5,7 @@ sku: "BA-049"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories:
-  - "beverage"
+categories: ["drinkware-bottles"]
 subcategory: "glassware"
 tags:
   - "cut glass wine glass"

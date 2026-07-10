@@ -5,7 +5,7 @@ sku: "BA-027"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["home-lifestyle-gifts"]
+categories: ["drinkware-bottles"]
 subcategory: "drinkware"
 tags: ["glitter tumbler", "double wall tumbler", "dome lid cup", "straw tumbler", "fruit tumbler", "cartoon cup", "wholesale acrylic tumbler", "sparkling tumbler"]
 buyers: ["importers", "gift retailers", "amazon sellers", "party supply wholesalers", "boutique stores", "theme park suppliers"]

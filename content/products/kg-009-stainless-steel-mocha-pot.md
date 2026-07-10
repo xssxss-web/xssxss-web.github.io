@@ -5,7 +5,7 @@ sku: "KG-009"
 branch_code: "FB01"
 product_status: "active"
 draft: false
-categories: ["kitchen-gadgets"]
+categories: ["coffee-tea"]
 subcategory: "coffee-tools"
 tags: ["mocha pot", "moka pot", "stovetop espresso", "coffee maker", "wholesale coffee tools", "stainless steel coffee pot"]
 buyers: ["importers", "coffee shop suppliers", "kitchenware retailers", "amazon sellers", "gift wholesalers", "specialty coffee buyers"]
