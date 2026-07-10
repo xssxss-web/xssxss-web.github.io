@@ -1,20 +1,59 @@
+# ============================================================
+# OMLMO 产品二级类目定义
+# 保留原有 5 个类目，新增 4 个类目（priority 6-9）
+# 新增类目基于现有产品实际分布和外贸 B2B 市场标准分类
+# ============================================================
+
+# --- 原有类目 ---
+
 - slug: "kitchen-gadgets"
   name: "Kitchen Gadgets"
-  description: "Food prep tools, cooking aids, kitchen utensils and practical small kitchen products."
+  description: "Food prep tools, cooking aids, kitchen utensils, graters, peelers, measuring tools and practical small kitchen products."
   priority: 1
+
 - slug: "storage-organization"
   name: "Storage & Organization"
-  description: "Closet organizers, drawer dividers, vacuum storage bags and home space-saving products."
+  description: "Kitchen canisters, spice jars, storage containers, woven baskets, wire organizers and home space-saving products."
   priority: 2
+
 - slug: "cleaning-tools"
   name: "Cleaning Tools"
-  description: "Microfiber mops, brushes, spray bottles, household cleaning accessories and refillable tools."
+  description: "Microfiber mops, cleaning cloths, spray bottles, cleaning gloves, brushes and household cleaning accessories."
   priority: 3
+
 - slug: "bathroom-accessories"
   name: "Bathroom Accessories"
-  description: "Shower caddies, soap dispensers, toothbrush holders and bathroom storage products."
+  description: "Soap dispensers, toilet brush sets, spray bottles and stainless steel bathroom storage products."
   priority: 4
+
 - slug: "home-lifestyle-gifts"
   name: "Home Lifestyle Gifts"
-  description: "Small home gifts, seasonal lifestyle items and decorative everyday products."
+  description: "Decorative vases, acrylic ice buckets, handbag vases, seasonal lifestyle items and gift-ready home products."
   priority: 5
+
+# --- 新增类目 ---
+
+- slug: "drinkware-bottles"
+  name: "Drinkware & Bottles"
+  description: "Stainless steel tumblers, vacuum flasks, sports water bottles, wine glasses, glass cups and kids drinkware for wholesale."
+  priority: 6
+
+- slug: "tableware-dining"
+  name: "Tableware & Dining"
+  description: "Porcelain dinner plates, ceramic bowl sets, cup and saucer sets, casserole dishes and serving ware for wholesale."
+  priority: 7
+
+- slug: "coffee-tea"
+  name: "Coffee & Tea Essentials"
+  description: "Cast iron teapots, coffee grinders, pour-over sets, milk frothers, mocha pots and tea warmer accessories."
+  priority: 8
+
+- slug: "cookware-bakeware"
+  name: "Cookware & Bakeware"
+  description: "Frying pans, woks, deep fry baskets, baking trays, burger presses and stainless steel cookware for wholesale."
+  priority: 9
+
+- slug: "outdoor-camping"
+  name: "Outdoor & Camping Gear"
+  description: "Portable camping stoves, butane cookers, BBQ grill baskets, charcoal starters and outdoor cooking equipment."
+  priority: 10
