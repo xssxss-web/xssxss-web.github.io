@@ -1,5 +1,5 @@
 ---
-title: "BA-157 铝箔带纹理盖和格纹盖餐盒系列 | Wholesale Supplier"
+title: "BA-157 Aluminum Foil Textured-Lid and Checkered-Lid Lunch Box Series | Wholesale Supplier"
 slug: "ba-157-aluminum-foil-textured-lid-embossed-container-wholesale"
 sku: "BA-157"
 branch_code: "FB01"

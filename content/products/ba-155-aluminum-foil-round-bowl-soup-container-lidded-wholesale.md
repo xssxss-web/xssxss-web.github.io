@@ -1,5 +1,5 @@
 ---
-title: "BA-155 铝箔圆形碗汤碗和带盖餐盒系列 | Wholesale Supplier"
+title: "BA-155 Aluminum Foil Round Soup Bowls and Lidded Lunch Box Series | Wholesale Supplier"
 slug: "ba-155-aluminum-foil-round-bowl-soup-container-lidded-wholesale"
 sku: "BA-155"
 branch_code: "FB01"

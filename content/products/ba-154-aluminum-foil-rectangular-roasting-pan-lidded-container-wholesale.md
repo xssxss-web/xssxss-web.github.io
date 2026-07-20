@@ -1,5 +1,5 @@
 ---
-title: "BA-154 铝箔长方形烤盘和带盖餐盒多规格系列 | Wholesale Supplier"
+title: "BA-154 A Multi-Size Series of Rectangular Aluminum Foil Baking Pans and Lidded Food Containers  | Wholesale Supplier"
 slug: "ba-154-aluminum-foil-rectangular-roasting-pan-lidded-container-wholesale"
 sku: "BA-154"
 branch_code: "FB01"

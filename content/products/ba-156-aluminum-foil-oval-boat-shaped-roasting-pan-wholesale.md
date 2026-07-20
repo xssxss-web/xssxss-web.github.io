@@ -1,5 +1,5 @@
 ---
-title: "BA-156 铝箔椭圆形船形烤盘系列 | Wholesale Supplier"
+title: "BA-156 Aluminum Foil Oval Boat-Shaped Baking Pan Series | Wholesale Supplier"
 slug: "ba-156-aluminum-foil-oval-boat-shaped-roasting-pan-wholesale"
 sku: "BA-156"
 branch_code: "FB01"

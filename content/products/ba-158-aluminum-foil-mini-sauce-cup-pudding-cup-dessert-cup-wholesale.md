@@ -1,5 +1,5 @@
 ---
-title: "BA-158 铝箔小型酱料杯布丁杯和甜品杯系列 | Wholesale Supplier"
+title: "BA-158 Aluminum Foil Mini Sauce Cups, Pudding Cups, and Dessert Cups Series | Wholesale Supplier"
 slug: "ba-158-aluminum-foil-mini-sauce-cup-pudding-cup-dessert-cup-wholesale"
 sku: "BA-158"
 branch_code: "FB01"
