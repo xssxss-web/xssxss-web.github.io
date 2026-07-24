@@ -52,9 +52,9 @@ lead_time_days: "25-35"
 mixed_order_supported: true
 customization_options: "Custom body color, custom packaging box printing, logo printing on frame, custom gas hose length and regulator type"
 certifications: "CE, CSA, CSA-US, RoHS, REACH, propane/butane gas appliance certified"
-main_image: "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+main_image: "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 gallery_images:
-  - "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+  - "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 image_alt: "Triple burner portable camping stove outdoor cooking system wholesale"
 meta_title: "Triple-Burner Portable Camping Stove Outdoor Cooking System | Wholesale Supplier"
 primary_keyword: "triple burner camping stove wholesale"

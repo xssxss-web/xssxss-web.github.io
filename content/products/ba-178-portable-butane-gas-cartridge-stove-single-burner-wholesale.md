@@ -52,9 +52,9 @@ lead_time_days: "20-30"
 mixed_order_supported: true
 customization_options: "Custom body color, custom packaging box printing, logo printing on body, custom label and instruction manual"
 certifications: "CE, CSA, CSA-US, RoHS, REACH, butane gas appliance certified"
-main_image: "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+main_image: "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 gallery_images:
-  - "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+  - "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 image_alt: "Portable butane gas cartridge stove single burner wholesale outdoor camping cooking"
 meta_title: "Portable Butane Gas Cartridge Stove Single Burner Series | Wholesale Supplier"
 primary_keyword: "portable butane gas cartridge stove wholesale"

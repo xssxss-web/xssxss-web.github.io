@@ -52,9 +52,9 @@ lead_time_days: "25-35"
 mixed_order_supported: true
 customization_options: "Custom enamel color patterns, custom packaging with vintage branding, custom instruction manual language, optional glass chimney inclusion"
 certifications: "CE, RoHS, REACH"
-main_image: "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+main_image: "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 gallery_images:
-  - "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+  - "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 image_alt: "Vintage enamel kerosene paraffin stove wholesale retro camping cooking"
 meta_title: "Vintage Enamel Kerosene Paraffin Stove Series | Wholesale Supplier"
 primary_keyword: "vintage enamel kerosene stove wholesale"

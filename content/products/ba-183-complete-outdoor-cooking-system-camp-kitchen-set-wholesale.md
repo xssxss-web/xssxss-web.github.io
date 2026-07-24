@@ -52,9 +52,9 @@ lead_time_days: "25-40"
 mixed_order_supported: true
 customization_options: "Custom set configuration, custom carrying case branding, custom color box design, custom utensil selection, custom cookware material options"
 certifications: "CE, CSA, CSA-US, RoHS, REACH"
-main_image: "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+main_image: "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 gallery_images:
-  - "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+  - "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 image_alt: "Complete outdoor cooking system camp kitchen set wholesale bundle"
 meta_title: "Complete Outdoor Cooking System and Camp Kitchen Set | Wholesale Supplier"
 primary_keyword: "complete outdoor cooking system wholesale"

@@ -52,9 +52,9 @@ lead_time_days: "15-25"
 mixed_order_supported: true
 customization_options: "Custom color coating, custom plastic case printing, custom OPP bag label, laser engraving on burner body"
 certifications: "CE, RoHS, REACH, butane gas appliance certified"
-main_image: "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+main_image: "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 gallery_images:
-  - "https://img.toolsd.com/file/1784880091025_724-3.jpg"
+  - "https://img.omlmo.com/file/1784880091025_724-3.jpg"
 image_alt: "Folding backpacking camping burner outdoor stove head wholesale ultralight"
 meta_title: "Folding Backpacking Camping Burner and Outdoor Stove Head Series | Wholesale Supplier"
 primary_keyword: "folding backpacking camping burner wholesale"
