@@ -10,8 +10,12 @@
         <div class="image-placeholder large">Product Image</div>
       {{ end }}
       {{ with .Params.gallery_images }}
+        {{ $imgs := . }}
+        {{ if eq (printf "%T" $imgs) "string" }}
+          {{ $imgs = slice $imgs }}
+        {{ end }}
         <div class="gallery-grid">
-          {{ range . }}
+          {{ range $imgs }}
             <img src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy">
           {{ end }}
         </div>
@@ -54,10 +58,14 @@
   </div>
 
   {{ with .Params.selling_points }}
+    {{ $pts := . }}
+    {{ if eq (printf "%T" $pts) "string" }}
+      {{ $pts = slice $pts }}
+    {{ end }}
     <section class="section-block">
       <h2>Key Selling Points</h2>
       <div class="feature-grid">
-        {{ range . }}
+        {{ range $pts }}
           <div class="feature-card">{{ . }}</div>
         {{ end }}
       </div>
@@ -163,11 +171,15 @@
   </section>
 
   {{ with .Params.related_skus }}
+    {{ $skus := . }}
+    {{ if eq (printf "%T" $skus) "string" }}
+      {{ $skus = split $skus ", " }}
+    {{ end }}
     <section class="section-block">
       <h2>Related Products</h2>
       <div class="product-grid">
-        {{ range $sku := . }}
-          {{ $related := where site.RegularPages "Params.sku" $sku }}
+        {{ range $skus }}
+          {{ $related := where site.RegularPages "Params.sku" . }}
           {{ range first 1 $related }}
             {{ partial "product-card.html" . }}
           {{ end }}
