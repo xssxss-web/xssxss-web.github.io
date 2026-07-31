@@ -32,7 +32,7 @@ Best for formal quotations, specification sheets, and multi-SKU inquiries. Pleas
 
 ### Office Location
 
-**OMLMO Yiwu Trading Co., Ltd.**
+**OMLMO ( Yiwu Gongbei Trading Co., Ltd. )**
 Yiwu International Trade City
 Zhejiang Province, China 322000
 
