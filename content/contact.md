@@ -33,8 +33,8 @@ Best for formal quotations, specification sheets, and multi-SKU inquiries. Pleas
 ### Office Location
 
 **OMLMO ( Yiwu Gongbei Trading Co., Ltd. )**
-Yiwu International Trade City
-Zhejiang Province, China 322000
+Building 3, Qianmaodian New Village,
+Houzhai Street, Yiwu City, Zhejiang Province, China 322000
 
 Visits by appointment only. If you are planning a trip to Yiwu, we can arrange factory visits, showroom tours, and sample collection from multiple suppliers.
 
