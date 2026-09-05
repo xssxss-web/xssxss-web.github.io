@@ -71,7 +71,7 @@ Every order goes through a 4-step quality process:
 ## Company Information
 
 - **Company**: OMLMO Yiwu Trading Co., Ltd.
-- **Location**: Yiwu International Trade City, Zhejiang, China
+- **Location**: Building 3, Qianmaodian New Village, Houzhai Street, Yiwu City, Zhejiang Province, China 322000.
 - **Working hours**: Monday-Saturday, 9:00-18:00 (GMT+8)
 - **WhatsApp**: +86 180 0689 1977
 - **Email**: mike@omlmo.com
