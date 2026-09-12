@@ -2,6 +2,7 @@
   <div class="container footer-grid">
     <section>
       <h3>{{ site.Data.company.name }}</h3>
+      <p>{{ site.Data.company.legal_name }}</p>
       <p>{{ site.Data.company.positioning }}</p>
       <p>{{ site.Data.company.location }}</p>
     </section>
@@ -27,6 +28,6 @@
     </section>
   </div>
   <div class="container footer-bottom">
-    <p>© {{ now.Format "2006" }} {{ site.Title }}. B2B wholesale showroom from Yiwu China.</p>
+    <p>© {{ now.Format "2006" }} {{ site.Data.company.legal_name }}. B2B wholesale showroom from Yiwu China.</p>
   </div>
 </footer>
