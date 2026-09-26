@@ -1,3 +1,9 @@
+<style>
+.pagination{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:32px 0}
+.pagination .page-link{display:inline-block;padding:8px 14px;border:1px solid #d0d7de;border-radius:6px;text-decoration:none;color:#333;background:#fff}
+.pagination .page-link:hover{background:#f0f4f8}
+.pagination .current{background:#1a5fb4;color:#fff;border-color:#1a5fb4;font-weight:600}
+</style>
 {{ define "main" }}
 <section class="container page">
   <h1>{{ .Title }}</h1>
@@ -17,9 +23,28 @@
     {{ end }}
   </div>
   <div class="product-grid">
-    {{ range .Pages }}
+    {{ $paginator := .Paginate .Pages 40 }}
+    {{ range $paginator.Pages }}
       {{ partial "product-card.html" . }}
     {{ end }}
   </div>
+
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination" aria-label="Product pages">
+    {{ if $paginator.HasPrev }}
+      <a class="page-link" href="{{ $paginator.Prev.URL }}">&laquo; Prev</a>
+    {{ end }}
+    {{ range $paginator.Pagers }}
+      {{ if eq . $paginator }}
+        <span class="page-link current">{{ .PageNumber }}</span>
+      {{ else }}
+        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
+      {{ end }}
+    {{ end }}
+    {{ if $paginator.HasNext }}
+      <a class="page-link" href="{{ $paginator.Next.URL }}">Next &raquo;</a>
+    {{ end }}
+  </nav>
+  {{ end }}
 </section>
 {{ end }}
